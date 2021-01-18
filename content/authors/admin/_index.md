@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: David Casbeer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Team Lead, Cooperative & Intelligent UAV Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Air Force Research Laboratory
+  url: https://www.afrl.af.mil/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cooperative Control & Decision Making
+- Distributed Estimation & Control
+- Path Planning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Electrical Engineering
+    institution: Brigham Young University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Electrical Engineering
+    institution: Brigham Young University
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+David Casbeer is the Team Lead over Cooperative & Intelligent UAV Control with the Control Science Center of Excellence, Aerospace Systems Directorate, Air Force Research Laboratory, where he conducts and leads basic research involving the control of autonomous UAVs with a particular emphasis on high-level decision making and planning under uncertainty. He received B.S. and Ph.D. degrees in Electrical Engineering from Brigham Young University in 2003 and 2009, respectively. He currently serves as a Senior Editor for the Journal of Intelligent and Robotic Systems and an Associate Editor for the AIAA Journal of Aerospace Information Systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
