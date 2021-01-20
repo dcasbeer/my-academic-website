@@ -13,8 +13,8 @@ authors:
 - David w. Casbeer
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-19T22:29:23-05:00
+date: '2021-01-01'
+lastmod: 2021-01-19T22:34:02-05:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-20T03:29:23.357153Z'
+publishDate: '2021-01-20T03:34:01.985831Z'
 publication_types:
 - '2'
 abstract: Chance-constrained optimization provides a promising framework for solving
