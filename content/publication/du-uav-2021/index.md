@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-01-20T03:34:01.985831Z'
 publication_types:
-- '2'
+- '10'
 abstract: Chance-constrained optimization provides a promising framework for solving
   control and planning problems with uncertainties, due to its modeling capability
   to capture randomness in real-world applications. In this paper, we consider a UAV
@@ -45,7 +45,7 @@ abstract: Chance-constrained optimization provides a promising framework for sol
   solution method, the optimal UAV trajectory is achieved while limiting the probability
   of collision with geo-fences to a prefixed threshold. Furthermore, to obtain a totally
   collision-free trajectory, i.e., avoiding the collision not only at the discrete
-  time-steps but also redwithin the entire time horizon, we build on the idea of an
+  time-steps but also red within the entire time horizon, we build on the idea of an
   iterative scheme. That is, to iterate the solving of the chance-constrained optimization
   until the collision with probabilistic geo-fence is avoided at any time within the
   time horizon. At last, we validate the effectiveness of our method via numerical
