@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:38.909220Z'
 publication_types:
-- '2'
+- '9'
 abstract: In this paper an N -pursuer vs. M -evader team conflict is studied. This
   work extends classical differential game theory to simultaneously address weapon
   assignments and multi- player pursuit-evasion scenarios. Saddle-point strategies
