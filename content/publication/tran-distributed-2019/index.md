@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:45.010630Z'
 publication_types:
-- '2'
+- '9'
 abstract: We propose a system-theoretical dynamic information fusion framework for
   heterogeneous sensor networks, where a sensor network with nonidentical node information
   roles and nonidentical node modalities is considered. Nonidentical node information

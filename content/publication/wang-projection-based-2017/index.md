@@ -1,17 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Complete Differential Game of Active Target Defense
+title: Projection-Based Consensus for Time-Critical Coordination of Unmanned Aerial
+  Vehicles under Velocity Constraints
 subtitle: ''
 summary: ''
 authors:
+- Xiaofeng Wang
 - Eloy Garcia
-- David W Casbeer
-- Meir Pachter
+- Zheqing Zhou
+- Derek Kingston
+- David Casbeer
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-01-18T16:57:38-05:00
+date: '2017-01-01'
+lastmod: 2021-01-22T10:33:56-05:00
 featured: false
 draft: false
 
@@ -29,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-18T21:57:37.929655Z'
+publishDate: '2021-01-22T15:33:56.348897Z'
 publication_types:
-- '10'
+- '6'
 abstract: ''
-publication: '*Journal of Optimization Theory and Applications*'
-url_pdf: https://arxiv.org/abs/2002.04054
+publication: '*Cooperative Control of Multi-Agent Systems: Theory and Applications*'
 ---

@@ -11,7 +11,7 @@ authors:
 - Satyanarayana Gupta Manyam
 tags: []
 categories: []
-date: 2020
+date: '2020-06-01'
 lastmod: 2021-01-18T16:57:39-05:00
 featured: false
 draft: false
@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:39.234660Z'
 publication_types:
-- '2'
+- '9'
 abstract: This paper addresses a multisource localization problem with multiple unmanned
   aerial vehicles equipped with appropriate sensors coordinating with each other,
   wherein the sources are simultaneously emitting identical acoustic signals. Distributed

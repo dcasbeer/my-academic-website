@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Complete Differential Game of Active Target Defense
+title: Multi-team Consensus Bundle Algorithm
 subtitle: ''
 summary: ''
 authors:
-- Eloy Garcia
+- Matthew E Argyle
+- Randal W Beard
 - David W Casbeer
-- Meir Pachter
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-01-18T16:57:38-05:00
+date: '2014-01-01'
+lastmod: 2021-01-22T10:33:55-05:00
 featured: false
 draft: false
 
@@ -29,10 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-18T21:57:37.929655Z'
+publishDate: '2021-01-22T15:33:55.835580Z'
 publication_types:
-- '10'
+- '6'
 abstract: ''
-publication: '*Journal of Optimization Theory and Applications*'
-url_pdf: https://arxiv.org/abs/2002.04054
+publication: '*Handbook of Unmanned Aerial Vehicles*'
 ---

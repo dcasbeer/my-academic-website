@@ -1,17 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Complete Differential Game of Active Target Defense
+title: Model-Based Event-Triggered Multi-Vehicle Coordinated Tracking with Communication
+  Delays
 subtitle: ''
 summary: ''
 authors:
 - Eloy Garcia
+- Yongcan Cao
 - David W Casbeer
-- Meir Pachter
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-01-18T16:57:38-05:00
+date: '2013-02-01'
+lastmod: 2021-01-22T10:33:55-05:00
 featured: false
 draft: false
 
@@ -29,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-18T21:57:37.929655Z'
+publishDate: '2021-01-22T15:33:55.651412Z'
 publication_types:
-- '10'
+- '4'
 abstract: ''
-publication: '*Journal of Optimization Theory and Applications*'
-url_pdf: https://arxiv.org/abs/2002.04054
+publication: ''
+url_pdf: https://apps.dtic.mil/dtic/tr/fulltext/u2/a582413.pdf
 ---
