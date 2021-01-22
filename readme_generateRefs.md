@@ -9,7 +9,7 @@ I am still working on a streamlined process to keep 3 things up-to-date: Zotero,
 
 <img align="left" width="32" height="35" src="https://www.zotero.org/static/images/icons/zotero-icon-64-70%402x.png"> 
 
-## &nbsp;&nbsp;&nbsp; Zotero management of my publications
+## &nbsp; Zotero management of my publications
 
 
 
