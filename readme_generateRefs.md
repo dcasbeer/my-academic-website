@@ -1,5 +1,9 @@
 # How to generate references
 
+We will use the [academic python package](https://pypi.org/project/academic/) to import references from zotero. 
+
+To install academic, [follow the instructions on the website](https://pypi.org/project/academic/). Make sure that `go` and `hugo` are installed correct and can be called from a command line. (See [readme_SetupHugo.md](readme_SetupHugo.md) for setting up these prerequisites.)
+
 I am still working on a streamlined process to keep 3 things up-to-date: Zotero, CV, and website. Perhaps I could look into automating the process using zotero and a bib file, but it is probably more work than I want to do. 
 
 ## Zotero management of my publications
