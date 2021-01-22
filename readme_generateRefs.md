@@ -6,7 +6,13 @@ To install academic, [follow the instructions on the website](https://pypi.org/p
 
 I am still working on a streamlined process to keep 3 things up-to-date: Zotero, CV, and website. Perhaps I could look into automating the process using zotero and a bib file, but it is probably more work than I want to do. 
 
-## Zotero management of my publications
+
+<img align="left" width="32" height="35" src="https://www.zotero.org/static/images/icons/zotero-icon-64-70%402x.png"> 
+
+## &nbsp;&nbsp;&nbsp; Zotero management of my publications
+
+
+
 
 I have put my publications in Zotero into separate folders with the structure as
 
