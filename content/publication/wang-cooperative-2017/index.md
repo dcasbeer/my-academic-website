@@ -16,12 +16,21 @@ lastmod: 2021-01-22T10:33:56-05:00
 featured: false
 draft: false
 
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+links:
+- name: Website
+  url: https://www.wiley.com/en-us/Cooperative+Control+of+Multi+Agent+Systems%3A+Theory+and+Applications-p-9781119266129
+  icon_pack: fas
+  icon: book
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  placement: 2
+  caption: 'Image credit: [Wiley](https://media.wiley.com/product_data/coverImage300/22/11192661/1119266122.jpg)'
+  focal_point: 'Left'
   preview_only: false
 
 # Projects (optional).
