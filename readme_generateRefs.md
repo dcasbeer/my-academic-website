@@ -9,7 +9,7 @@ I am still working on a streamlined process to keep 3 things up-to-date: Zotero,
 
 <img align="left" width="32" height="35" src="https://www.zotero.org/static/images/icons/zotero-icon-64-70%402x.png"> 
 
-## &nbsp; Zotero management of my publications
+## Zotero management of my publications
 
 
 
@@ -54,6 +54,11 @@ There are two ways to do this: [import a bib file](https://wowchemy.com/docs/con
         hugo new --kind publication publication/<key-for-new-publication>
 
     * The key here is the name of the folder keeping in line with the automatic import this would be author-wordFromTitle-year
+
+🔥 I have had trouble where hugo doesn't seem to respond to fix this you can reset hugo
+
+    hugo mod clean
+    hugo mod get -u ./...      (I"m not sure this latter one is needed)
 
 ### Publication type
 * I have added two different type of publications from the standard that are built in, including the standard ones these are
