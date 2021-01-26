@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-01-20T03:34:01.985831Z'
 publication_types:
-- '10'
+- '2'
 abstract: Chance-constrained optimization provides a promising framework for solving
   control and planning problems with uncertainties, due to its modeling capability
   to capture randomness in real-world applications. In this paper, we consider a UAV
@@ -50,5 +50,5 @@ abstract: Chance-constrained optimization provides a promising framework for sol
   until the collision with probabilistic geo-fence is avoided at any time within the
   time horizon. At last, we validate the effectiveness of our method via numerical
   simulations.
-publication: '*IEEE Transactions on Intelligent Transportation Systems*'
+publication: '*IEEE Transactions on Intelligent Transportation Systems* (Accepted, January 2021)'
 ---

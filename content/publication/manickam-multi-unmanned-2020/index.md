@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:39.234660Z'
 publication_types:
-- '9'
+- '2'
 abstract: This paper addresses a multisource localization problem with multiple unmanned
   aerial vehicles equipped with appropriate sensors coordinating with each other,
   wherein the sources are simultaneously emitting identical acoustic signals. Distributed
@@ -45,7 +45,7 @@ abstract: This paper addresses a multisource localization problem with multiple 
   along with coordination strategy is verified in the presence of realistic error
   conditions through simulation.
 publication: '*Proceedings of the Institution of Mechanical Engineers, Part G: Journal
-  of Aerospace Engineering*'
+  of Aerospace Engineering* (Published Online)'
 url_pdf: 
 doi: 10.1177/0954410020943086
 ---

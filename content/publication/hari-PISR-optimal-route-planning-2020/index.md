@@ -46,7 +46,7 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:39.896682Z'
 publication_types:
-- '9'
+- '2'
 abstract: This article addresses a persistent monitoring problem (PMP) that requires
   an unmanned aerial vehicle (UAV) to repeatedly visit $n$ targets of equal priority.
   The UAV has limited onboard fuel/charge and must be regularly serviced at a depot.
@@ -58,6 +58,6 @@ abstract: This article addresses a persistent monitoring problem (PMP) that requ
   values of $k$ and develop algorithms that can compute the optimal solutions relatively
   fast. Numerical results are also presented to corroborate the performance of the
   proposed approach.
-publication: '*IEEE Transactions on Robotics*'
+publication: '*IEEE Transactions on Robotics* (Published online)'
 doi: 10.1109/TRO.2020.3032171
 ---

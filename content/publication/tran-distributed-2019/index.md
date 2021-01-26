@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:45.010630Z'
 publication_types:
-- '9'
+- '2'
 abstract: We propose a system-theoretical dynamic information fusion framework for
   heterogeneous sensor networks, where a sensor network with nonidentical node information
   roles and nonidentical node modalities is considered. Nonidentical node information
@@ -50,7 +50,7 @@ abstract: We propose a system-theoretical dynamic information fusion framework f
   Using Lyapunov theory and linear matrix inequalities, we establish stability and
   performance guarantees of the sensor network executing the proposed distributed
   coestimation architecture under local sufficient conditions.
-publication: '*International Journal of Control*'
+publication: '*International Journal of Control* (Published online)'
 url_pdf: https://doi.org/10.1080/00207179.2019.1690693
 doi: 10.1080/00207179.2019.1690693
 ---

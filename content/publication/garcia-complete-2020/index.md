@@ -31,8 +31,8 @@ image:
 projects: []
 publishDate: '2021-01-18T21:57:37.929655Z'
 publication_types:
-- '10'
+- '2'
 abstract: ''
-publication: '*Journal of Optimization Theory and Applications*'
+publication: '*Journal of Optimization Theory and Applications* (Accepted January 2021)'
 url_pdf: https://arxiv.org/abs/2002.04054
 ---
